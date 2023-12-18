@@ -11,6 +11,7 @@
 <header>
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
+	<h1> This is the visible change </h1>
       <a href="/" class="navbar-brand d-flex align-items-center">
         <strong>WOPR</strong>
       </a>
